@@ -37,7 +37,7 @@ header{
 .logo a{
     position: relative;
     text-decoration: none;
-    left: 282px;
+    left: 210px;
     top: 19px;
 }
 .logo a.idea{
@@ -48,7 +48,7 @@ header{
 .menu-right{
     display: flex;
     position: relative;
-    right: -822px;
+    right: -750px;
     top: -35px;
 }
 .menu-right a{
