@@ -33,7 +33,7 @@ header{
 .logo{
     display: flex;
     position: absolute;
-    left: 285px;
+    left: 209px;
     top: 28px;
     align-items: center;
 }
@@ -48,7 +48,7 @@ header{
 .menu-right{
     display: flex;
     position: absolute;
-    left: 834px;
+    left: 758px;
     top: 25px;
 }
 .menu{
