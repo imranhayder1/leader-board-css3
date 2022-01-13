@@ -31,28 +31,27 @@ header{
 
 .logo{
     display: flex;
-    position: relative;
+    position: absolute;
+    left: 285px;
+    top: 28px;
     align-items: center;
 }
 .logo a{
-    position: relative;
     text-decoration: none;
-    left: 210px;
-    top: 19px;
 }
-.logo a.idea{
+.idea{
     font-size: 30px;
     color: whitesmoke;
     padding-left: 10px;
 }
 .menu-right{
     display: flex;
-    position: relative;
-    right: -750px;
-    top: -35px;
+    position: absolute;
+    left: 834px;
+    top: 25px;
 }
-.menu-right a{
-    position: relative;
+.menu{
+
     text-decoration: none;
     font-size: 30px;
     padding: 0 10px;
