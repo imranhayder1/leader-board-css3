@@ -7,6 +7,7 @@ body{
     background-color: #F3F1FF;
     margin: 0 auto;
     padding: 0;
+    max-width: 100%;
 }
 main{
     display: flex;
